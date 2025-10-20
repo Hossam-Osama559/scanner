@@ -1,0 +1,16 @@
+the token type is reserved_keyword and its value is if and exist in line number 1
+the token type is space and exist in line number 1
+the token type is identifier and its value is x and exist in line number 1
+the token type is is equal and exist in line number 1
+the token type is string and its value is "None" and exist in line number 1
+the token type is double colon and exist in line number 1
+the token type is New line and exist in line number 1
+the token type is New line and exist in line number 2
+the token type is space and exist in line number 3
+the token type is space and exist in line number 3
+the token type is space and exist in line number 3
+the token type is space and exist in line number 3
+the token type is reserved_keyword and its value is return and exist in line number 3
+the token type is space and exist in line number 3
+the token type is integer and its value is 1  and exist in line number 3
+the token type is End of file and exist in line number 3
