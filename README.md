@@ -1,4 +1,4 @@
-this tokenizer is specific for python sytax 
+this tokenizer is specific for python syntax 
 
 to run this 
 clone the repo 
